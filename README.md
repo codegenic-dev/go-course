@@ -3,9 +3,8 @@
 This is a hands-on async course/workshop for learning how to build APIs with Go.
 
 How to participate in this course:
-1. Create a github repository.
-2. Copy the content of this repository in your repo.
-3. Start implementing the services step by step.
+1. Fork this github repository.
+2. Start implementing the services step by step.
 
 ## 1. Todo API
 
